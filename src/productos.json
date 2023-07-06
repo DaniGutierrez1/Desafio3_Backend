@@ -1,0 +1,114 @@
+[
+	{
+		"title": "mouse",
+		"description": "inalambrico",
+		"price": "$400",
+		"thumbail": "sin imagen",
+		"code": 1,
+		"stock": 30
+	},
+	{
+		"title": "monitor",
+		"description": "LED",
+		"price": "$5000",
+		"thumbail": "sin imagen",
+		"code": 3,
+		"stock": 10
+	},
+	{
+		"title": "mouse",
+		"description": "inalambrico",
+		"price": "$400",
+		"thumbail": "sin imagen",
+		"code": 1,
+		"stock": 30
+	},
+	{
+		"title": "monitor",
+		"description": "LED",
+		"price": "$5000",
+		"thumbail": "sin imagen",
+		"code": 3,
+		"stock": 10
+	},
+	{
+		"title": "mouse",
+		"description": "inalambrico",
+		"price": "$400",
+		"thumbail": "sin imagen",
+		"code": 1,
+		"stock": 30
+	},
+	{
+		"title": "monitor",
+		"description": "LED",
+		"price": "$5000",
+		"thumbail": "sin imagen",
+		"code": 3,
+		"stock": 10
+	},
+	{
+		"title": "mouse",
+		"description": "inalambrico",
+		"price": "$400",
+		"thumbail": "sin imagen",
+		"code": 1,
+		"stock": 30
+	},
+	{
+		"title": "monitor",
+		"description": "LED",
+		"price": "$5000",
+		"thumbail": "sin imagen",
+		"code": 3,
+		"stock": 10
+	},
+	{
+		"title": "mouse",
+		"description": "inalambrico",
+		"price": "$400",
+		"thumbail": "sin imagen",
+		"code": 1,
+		"stock": 30
+	},
+	{
+		"title": "monitor",
+		"description": "LED",
+		"price": "$5000",
+		"thumbail": "sin imagen",
+		"code": 3,
+		"stock": 10
+	},
+	{
+		"title": "mouse",
+		"description": "inalambrico",
+		"price": "$400",
+		"thumbail": "sin imagen",
+		"code": 1,
+		"stock": 30
+	},
+	{
+		"title": "monitor",
+		"description": "LED",
+		"price": "$5000",
+		"thumbail": "sin imagen",
+		"code": 3,
+		"stock": 10
+	},
+	{
+		"title": "mouse",
+		"description": "inalambrico",
+		"price": "$400",
+		"thumbail": "sin imagen",
+		"code": 1,
+		"stock": 30
+	},
+	{
+		"title": "monitor",
+		"description": "LED",
+		"price": "$5000",
+		"thumbail": "sin imagen",
+		"code": 3,
+		"stock": 10
+	}
+]
